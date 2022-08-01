@@ -1,0 +1,14 @@
+.Blog{
+    align-items:center;
+    align-content:center;
+    text-align:center;
+    display: block;
+}
+
+.BlogPost{
+    border-style:solid;
+    background-color:#f0ebeb;
+    display: block;
+    margin: auto;
+    width:40%;
+}

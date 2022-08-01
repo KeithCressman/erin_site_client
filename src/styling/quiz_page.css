@@ -1,0 +1,33 @@
+.Quiz-Page{
+    align-items:center;
+    align-content:center;
+    text-align:center;
+    
+}
+
+.Quiz-Item{
+    position:relative;
+}
+
+.Question{
+    font-size:18px;
+    font-weight:bold;
+}
+
+.Answer-Option{
+    border-style:solid;
+    background-color:#f0ebeb;
+    
+    margin: auto;
+    width:40%;
+}
+
+.Answer-Option:hover{
+    background-color: #a7c7e7;
+    font-weight:bold;
+}
+
+.Answer-Text{
+    text-align:left;
+    margin-left:10px;
+}

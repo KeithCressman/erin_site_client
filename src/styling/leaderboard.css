@@ -1,0 +1,13 @@
+.Leaderboard{
+    align-items:center;
+    align-content:center;
+    text-align:center;
+}
+
+.Leader{
+    border-style:solid;
+    background-color:#f0ebeb;
+    
+    margin: auto;
+    width:40%;
+}

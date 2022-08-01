@@ -1,0 +1,25 @@
+{
+    "questions":
+    [
+        {
+            "question":"What is Erin's favorite color?",
+            "options":[
+                "Teal",
+                "Pastel blue",
+                "Dark green",
+                "Purple"
+            ],
+            "correct": 1
+        },
+        {
+            "question":"Which of these does Erin like to eat for breakfast?",
+            "options":[
+                "Your mom",
+                "Muffins",
+                "Tomatoes are my fav thing ever i love them so much mwa mwa smooch smooch",
+                "Bacon"
+            ],
+            "correct": 2
+        }
+    ]
+}
